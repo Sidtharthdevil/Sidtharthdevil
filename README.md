@@ -2,7 +2,7 @@
 <h3 align="center">💻 Tech Explorer | Cybersecurity Learner | Flutter Developer</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sidducyber07&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -43,24 +43,24 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=sidducyber07&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sidducyber07&theme=tokyonight&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sidducyber07&theme=tokyonight&hide_border=false&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sidducyber07E&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/sidducyber07/sidducyber07/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
@@ -73,12 +73,12 @@
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=YOUR_USERNAME&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=sidducyber07&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=YOUR_USERNAME&icon=5&color=6" />
+  <img src="https://visitcount.itsvg.in/api?id=sidducyber07&icon=5&color=6" />
 </p>
 
 ---
