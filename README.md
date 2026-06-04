@@ -46,12 +46,9 @@
 
 ## 🏆 GitHub Trophies & Achievements
 
-<p align="left">
-  <img src="https://github-profile-achievements.vercel.app/api?username=sidducyber07&theme=tokyonight" alt="GitHub Achievements" />
-</p>
+## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=sidducyber07&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=sidducyber07&theme=tokyonight&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ## 🐍 Contribution Snake
