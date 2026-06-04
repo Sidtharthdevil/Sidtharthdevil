@@ -46,8 +46,6 @@
 
 ## 🏆 GitHub Trophies & Achievements
 
-## 🏆 GitHub Trophies
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=sidducyber07&theme=tokyonight&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
