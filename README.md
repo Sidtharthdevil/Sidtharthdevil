@@ -58,9 +58,9 @@
 
 ---
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repositories
 
-![](https://github-contributor-stats.vercel.app/api?username=sidducyber07&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=sidducyber07&limit=10&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
