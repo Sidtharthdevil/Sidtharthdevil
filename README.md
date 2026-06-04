@@ -58,10 +58,9 @@
 
 ---
 
-### 🔝 Top Contributed Repositories
+## 🚀 Featured Project
 
-![](https://github-contributor-stats.vercel.app/api?username=sidducyber07&limit=10&theme=tokyonight&combine_all_yearly_contributions=true)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sidducyber07&repo=nova_note&theme=tokyonight)](https://github.com/sidducyber07/nova_note)
 ---
 
 <p align="center">
