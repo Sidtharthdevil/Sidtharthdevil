@@ -60,8 +60,17 @@
 
 ## 🚀 Featured Project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sidducyber07&repo=nova_note&theme=tokyonight)](https://github.com/sidducyber07/nova_note)
----
+<p align="center">
+
+<a href="https://github.com/sidducyber07/nova_note">
+  <img src="https://img.shields.io/badge/📒_Nova_Note-View_Project-blueviolet?style=for-the-badge" />
+</a>
+
+</p>
+
+<p align="center">
+A modern Flutter-powered note-taking application.
+</p>---
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=sidducyber07&icon=5&color=6" />
